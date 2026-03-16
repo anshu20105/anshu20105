@@ -32,7 +32,7 @@ Hello! I'm **Anshuman Padhy**, a passionate **B.Tech student in Information Tech
 ### Computer Vision and Machine Learning Intern | 2025
 - Built image classification models and implemented preprocessing workflows
 - Gained exposure to supervised learning and evaluation metrics
-- Worked on healthcare AI applications including pneumonia and diabetes detection
+- Worked on healthcare AI applications including pneumonia and diabetes detection| 74% || 74% |
 
 ### Advanced Computer Programming Using C | 2024
 - Implemented optimized algorithms using C/C++
@@ -77,7 +77,7 @@ Hello! I'm **Anshuman Padhy**, a passionate **B.Tech student in Information Tech
 | 🔍 Pattern Recognition | 📷 Image Preprocessing | 🗄️ Database Integration |
 
 ---
-
+| 74% || 74% || 74% |
 ## 🚀 Featured Projects
 
 ### 🫁 Pneumonia Detection using Chest X-Ray Scans (Deep Learning) | 2025
@@ -142,8 +142,6 @@ Hello! I'm **Anshuman Padhy**, a passionate **B.Tech student in Information Tech
 [![Portfolio](https://img.shields.io/badge/Portfolio-anshumanpadhy.netlify.app-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anshumanpadhy.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuman-padhy-96316b3b4)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshu20105)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshu20105@proton.me)
-[![Phone](https://img.shields.io/badge/Phone-+91%206372326245-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916372326245)
 
 ---
 
@@ -151,9 +149,9 @@ Hello! I'm **Anshuman Padhy**, a passionate **B.Tech student in Information Tech
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| B.Tech (Information Technology) | NIST University, Berhampur | 2023-2027 | CGPA: 8.2/10 |
-| Class XII (PCM) | SSVM, N.K. Nagar | 2022 | 74% |
-| Class X | St. Vincent's Convent School | 2020 | 90% |
+| B.Tech (Information Technology) | NIST University, Berhampur | 2023-2027 
+| Class XII (PCM) | SSVM, N.K. Nagar | 2023
+| Class X | St. Vincent's Convent School | 2021
 
 ---
 
@@ -164,7 +162,7 @@ Hello! I'm **Anshuman Padhy**, a passionate **B.Tech student in Information Tech
 - ✅ Database Management Systems
 - ✅ Machine Learning Pipelines
 - ✅ Computer Vision Techniques
-- ✅ Web Development Fundamentals
+- ✅ Web Development Fundamentals| 74% |
 
 ---
 
