@@ -123,11 +123,9 @@ Hello! I'm **Anshuman Padhy**, a passionate **B.Tech student in Information Tech
 
 ## 📊 GitHub Stats
 
-![Anshuman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshu20105&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshu20105&layout=compact&theme=tokyonight)
-
-![Contribution Graph](https://ghchart.rshah.org/tokyonight/anshu20105)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu20105&theme=tokyonight&layout=compact" alt="Most Used Languages" />
+</p>
 
 ---
 
