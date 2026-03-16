@@ -5,11 +5,11 @@
 
 ---
 
-## 🧑💻 About Me
+## 🧑‍💻 About Me
 
 Hello! I'm **Anshuman Padhy**, a passionate **B.Tech student in Information Technology** at **NIST University** with a strong interest in **Machine Learning, Deep Learning, and Computer Vision**. I love building AI-based healthcare models and data-driven applications that tackle real-world problems.
 
-- 🎓 Currently pursuing B.Tech in Information Technology 
+- 🎓 Currently pursuing B.Tech in Information Technology
 - 🤖 Continuously learning new technologies in AI/ML, Computer Vision, and Web Development
 - 🏆 Finalist at UNESCO Youth Hackathon 2025
 - 💡 Passionate about solving real-world problems using intelligent systems
@@ -20,10 +20,10 @@ Hello! I'm **Anshuman Padhy**, a passionate **B.Tech student in Information Tech
 
 ## 🏆 Hackathon Wins & Awards
 
-| Competition | Prize | Achievement |
-|-------------|-------|-------------|
-| UNESCO Youth Hackathon 2025 | Finalist | MILGuard – Digital Literacy Assistant |
-| College Tech Competitions | Multiple | Various ML/AI Projects |
+| Competition | Achievement |
+|-------------|-------------|
+| UNESCO Youth Hackathon 2025 | Finalist – MILGuard: Digital Literacy Assistant |
+| College Tech Competitions | Various ML/AI Projects |
 
 ---
 
@@ -32,7 +32,7 @@ Hello! I'm **Anshuman Padhy**, a passionate **B.Tech student in Information Tech
 ### Computer Vision and Machine Learning Intern | 2025
 - Built image classification models and implemented preprocessing workflows
 - Gained exposure to supervised learning and evaluation metrics
-- Worked on healthcare AI applications including pneumonia and diabetes detection| 74% || 74% |
+- Worked on healthcare AI applications including pneumonia and diabetes detection
 
 ### Advanced Computer Programming Using C | 2024
 - Implemented optimized algorithms using C/C++
@@ -52,16 +52,7 @@ Hello! I'm **Anshuman Padhy**, a passionate **B.Tech student in Information Tech
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/P<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
-</p>
-andas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Frontend Development
@@ -86,7 +77,7 @@ andas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 | 🔍 Pattern Recognition | 📷 Image Preprocessing | 🗄️ Database Integration |
 
 ---
-| 74% || 74% || 74% |
+
 ## 🚀 Featured Projects
 
 ### 🫁 Pneumonia Detection using Chest X-Ray Scans (Deep Learning) | 2025
@@ -102,16 +93,7 @@ andas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 - **Tech Stack:** Python, Scikit-learn, OpenCV, Pandas
 
 ### 🛡️ MILGuard – Digital Literacy Assistant | 2025
-- **🏆 Finalist at UNESCO Youth Hackatho<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
-</p>
-n 2025**
+- **🏆 Finalist at UNESCO Youth Hackathon 2025**
 - Designed a solution to combat misinformation using Media Information Literacy principles
 - Created user-friendly interface for fact-checking and awareness
 - **Tech Stack:** Python, Web Technologies, ML Models
@@ -161,45 +143,39 @@ n 2025**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuman-padhy-96316b3b4)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshu20105)
 
+
 ---
 
 ## 📚 Education
 
-| Degree | Institution | Year 
-|--------|-------------|------
-| B.Tech (Information Technology) | NIST University, Berhampur | 2023-2027 
-| Class XII (PCM) | SSVM, N.K. Nagar | 2023
-| Class X | St. Vincent's Convent School | 2021
+| Degree | Institution | Year |
+|--------|-------------|------|
+| B.Tech (Information Technology) | NIST University, Berhampur | 2023-2027 |
+| Class XII (PCM) | SSVM, N.K. Nagar | 2023 |
+| Class X | St. Vincent's Convent School | 2021 |
 
 ---
 
 ## 💡 Core Concepts
 
 - ✅ Data Structures & Algorithms
-- ✅ Object-Oriented Programming<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
-</p>
-
+- ✅ Object-Oriented Programming
 - ✅ Database Management Systems
 - ✅ Machine Learning Pipelines
 - ✅ Computer Vision Techniques
-- ✅ Web Development Fundamentals| 74% |
+- ✅ Web Development Fundamentals
 
 ---
 
 ## 🎯 Currently Working On
 
--  Enhancing AI/ML model accuracy for healthcare applications
+- 🤖 Enhancing AI/ML model accuracy for healthcare applications
 - 📱 Building more data-driven solutions for real-world problems
 - 🌐 Expanding web development skills with modern frameworks
 - 📚 Continuously learning new technologies in AI and Cloud Computing
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshu20105@proton.me)
+[![Phone](https://img.shields.io/badge/Phone-+91%206372326245-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916372326245)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshu20105@proton.me)
+[![Phone](https://img.shields.io/badge/Phone-+91%206372326245-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916372326245)
 ---
 
 ## 📫 Get In Touch
@@ -215,4 +191,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <p align="center">
   <em>Thank you for visiting my profile! Let's build something amazing together! 🚀</em>
 </p>
-
