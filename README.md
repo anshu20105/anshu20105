@@ -121,13 +121,6 @@ Hello! I'm **Anshuman Padhy**, a passionate **B.Tech student in Information Tech
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu20105&theme=tokyonight&layout=compact" alt="Most Used Languages" />
-</p>
-
----
 
 ## 📈 Most Used Languages
 
