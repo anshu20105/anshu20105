@@ -167,17 +167,6 @@ Hello! I'm **Anshuman Padhy**, a passionate **B.Tech student in Information Tech
 
 ---
 
-## 🎯 Currently Working On
-
-- 🤖 Enhancing AI/ML model accuracy for healthcare applications
-- 📱 Building more data-driven solutions for real-world problems
-- 🌐 Expanding web development skills with modern frameworks
-- 📚 Continuously learning new technologies in AI and Cloud Computing
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshu20105@proton.me)
-[![Phone](https://img.shields.io/badge/Phone-+91%206372326245-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916372326245)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshu20105@proton.me)
-[![Phone](https://img.shields.io/badge/Phone-+91%206372326245-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916372326245)
----
-
 ## 📫 Get In Touch
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision!
