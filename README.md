@@ -52,7 +52,16 @@ Hello! I'm **Anshuman Padhy**, a passionate **B.Tech student in Information Tech
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/P<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
+</p>
+andas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Frontend Development
@@ -93,7 +102,16 @@ Hello! I'm **Anshuman Padhy**, a passionate **B.Tech student in Information Tech
 - **Tech Stack:** Python, Scikit-learn, OpenCV, Pandas
 
 ### 🛡️ MILGuard – Digital Literacy Assistant | 2025
-- **🏆 Finalist at UNESCO Youth Hackathon 2025**
+- **🏆 Finalist at UNESCO Youth Hackatho<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
+</p>
+n 2025**
 - Designed a solution to combat misinformation using Media Information Literacy principles
 - Created user-friendly interface for fact-checking and awareness
 - **Tech Stack:** Python, Web Technologies, ML Models
@@ -147,8 +165,8 @@ Hello! I'm **Anshuman Padhy**, a passionate **B.Tech student in Information Tech
 
 ## 📚 Education
 
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
+| Degree | Institution | Year 
+|--------|-------------|------
 | B.Tech (Information Technology) | NIST University, Berhampur | 2023-2027 
 | Class XII (PCM) | SSVM, N.K. Nagar | 2023
 | Class X | St. Vincent's Convent School | 2021
@@ -158,7 +176,16 @@ Hello! I'm **Anshuman Padhy**, a passionate **B.Tech student in Information Tech
 ## 💡 Core Concepts
 
 - ✅ Data Structures & Algorithms
-- ✅ Object-Oriented Programming
+- ✅ Object-Oriented Programming<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
+</p>
+
 - ✅ Database Management Systems
 - ✅ Machine Learning Pipelines
 - ✅ Computer Vision Techniques
@@ -189,6 +216,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   <em>Thank you for visiting my profile! Let's build something amazing together! 🚀</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshu20105&label=Profile%20Views&color=0e75b6&style=flat" alt="anshu20105" />
-</p>
