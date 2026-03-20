@@ -137,15 +137,7 @@ Hello! I'm **Anshuman Padhy**, a passionate **B.Tech student in Information Tech
 
 ---
 
-## 📚 Education
 
-| Degree | Institution | Year |
-|--------|-------------|------|
-| B.Tech (Information Technology) | NIST University, Berhampur | 2023-2027 |
-| Class XII (PCM) | SSVM, N.K. Nagar | 2023 |
-| Class X | St. Vincent's Convent School | 2021 |
-
----
 
 ## 💡 Core Concepts
 
